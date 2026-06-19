@@ -66,8 +66,8 @@ Each model is evaluated using:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-   cd YOUR_REPO
+   git clone https://github.com/sh4unx/Biometic-auth-using-fedrated-learning-fingervein-.git
+   cd Biometic-auth-using-fedrated-learning-fingervein-
    ```
 2. Open `finger_vein.ipynb` in Google Colab or Jupyter.
 3. Mount your Google Drive (or update the data path) and point it to your local copy of the MMCBNU_6000 dataset.
