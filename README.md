@@ -66,7 +66,7 @@ Each model is evaluated using:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/sh4unx/Biometic-auth-using-fedrated-learning-fingervein-.git
+   git clone  https://github.com/shaunbny/Biometic-auth-using-fedrated-learning-fingervein-.git
    cd Biometic-auth-using-fedrated-learning-fingervein-
    ```
 2. Open `finger_vein.ipynb` in Google Colab or Jupyter.
